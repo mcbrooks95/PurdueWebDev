@@ -1,0 +1,21 @@
+.purpleColor {
+	background-color: purple;
+}
+
+.redColor {
+	background-color: red;
+}
+
+.blueColor {
+	background-color: blue;
+}
+
+.square_200 {
+	height: 200px;
+	width: 200px;
+}
+
+.square_100 {
+	height: 100px;
+	width: 100px;
+}
